@@ -1,0 +1,20 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "tutorial for 3js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite", 
+    "build": "vite build", 
+    "preview": "vite preview"
+  },
+  "author": "kuan lee",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.154.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.3"
+  }
+}
